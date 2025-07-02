@@ -1,7 +1,8 @@
+
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.914481d6abb3445bbe47c2b597089e5e',
+  appId: 'com.lovable.foodhub',
   appName: 'FoodHub Restaurant App',
   webDir: 'dist',
   server: {
